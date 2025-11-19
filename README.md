@@ -26,3 +26,5 @@ node{
                 war:'target/*.war'
     }
 }
+
+b479be1cff7b4478b2d92b5c5a0da3fd
